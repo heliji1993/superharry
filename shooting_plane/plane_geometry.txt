@@ -1,0 +1,2 @@
+mine plane geometry: 483 538
+enemy plane geometry: 943 149

@@ -1,0 +1,12 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\myplane.o
+./debug\enemy_plane.o
+./debug\enemy_plane.o
+./debug\myplane.o
+./debug\qrc_resource.o
+./debug\moc_mainwindow.o
+./debug\moc_enemy_plane.o
+./debug\moc_myplane.o
+);

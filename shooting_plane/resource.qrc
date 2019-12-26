@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>enemy_plane.png</file>
+        <file>myplane.png</file>
+    </qresource>
+</RCC>

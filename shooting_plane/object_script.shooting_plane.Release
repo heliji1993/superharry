@@ -1,0 +1,12 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\myplane.o
+./release\enemy_plane.o
+./release\enemy_plane.o
+./release\myplane.o
+./release\qrc_resource.o
+./release\moc_mainwindow.o
+./release\moc_enemy_plane.o
+./release\moc_myplane.o
+);
